@@ -1,0 +1,3 @@
+
+Tests Run in Visual Studio Code
+I use Visual Studio Code which is more light weight and fast compared to eclipse. I have run all tests successfully with no fails. 
